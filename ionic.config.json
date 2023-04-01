@@ -1,0 +1,7 @@
+{
+  "name": "iseng",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
